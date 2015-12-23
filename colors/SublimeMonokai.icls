@@ -945,6 +945,9 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value />
+    </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
