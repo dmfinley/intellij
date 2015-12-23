@@ -1,0 +1,152 @@
+<application>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+    <registeredAnts />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:file:///Users/dfinley/Projects/WR-288930/4X/cbm/bf-enrollment-cbm/src/main/resources/CommonMessageResourcesMultiLanguage" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/trunk.0622/4X/webapps/member/src/main/resources/ApplicationResources" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/2015.4.REL/4X/webapps/member/src/main/resources/ApplicationResources" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/trunk.1026/4X/cbm/bf-enrollment-cbm/src/main/resources/CBMMessageResources" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/2015.3.REL/4X/cbm/bf-enrollment-cbm/src/main/resources/CBMMessageResources" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/tags/2014.3.2.2/4X/webapps/member/src/main/resources/ApplicationResources" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/trunk.1026/4X/cbm/bf-enrollment-cbm/src/main/resources/CommonMessageResourcesMultiLanguage" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/trunk.0622/4X/cbm/bf-enrollment-cbm/src/main/resources/CommonMessageResourcesMultiLanguage" separator="\u002e" />
+    <file url="resourceBundle:file:///Users/dfinley/Projects/2015.3.REL/4X/cbm/bf-enrollment-cbm/src/main/resources/CommonMessageResourcesMultiLanguage" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://vcs.benefitfocus.com/svn/enrollment/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://vcs.benefitfocus.com/svn/enrollment/trunk/" />
+      </list>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="TestRunner" />
+      </set>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" PathToXmlBeans="$USER_HOME$/Library/Caches/IntelliJIdea11/webservices/xmlbeans-2.3.0" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true">
+    <Libs>
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlpublic.jar.pack.gz" size="89723" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/jsr173_1.0_api.jar.pack.gz" size="5348" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlbeans-qname.jar.pack.gz" size="1173" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/docs/axis1_4/documentation.jar.pack.gz" size="615245" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean.jar.pack.gz" size="639476" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/resolver.jar.pack.gz" size="21195" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean_xpath.jar.pack.gz" size="2430" />
+    </Libs>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+    <default_templates />
+    <internal_templates />
+    <includes_templates />
+    <code_templates />
+    <j2ee_templates />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+</application>
