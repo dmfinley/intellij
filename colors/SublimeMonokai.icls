@@ -940,11 +940,6 @@
         <option name="FOREGROUND" value="d7e7f6" />
       </value>
     </option>
-    <option name="JAVA_COMMA">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
@@ -969,11 +964,6 @@
     <option name="JAVA_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="f9276c" />
-      </value>
-    </option>
-    <option name="JAVA_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="JAVA_STRING">
