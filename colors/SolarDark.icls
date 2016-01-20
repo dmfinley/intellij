@@ -276,22 +276,10 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE">
-      <value />
-    </option>
     <option name="PROPERTIES.KEY">
       <value>
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="PROPERTIES.LINE_COMMENT">
-      <value />
-    </option>
-    <option name="PROPERTIES.VALID_STRING_ESCAPE">
-      <value />
-    </option>
-    <option name="PROPERTIES.VALUE">
-      <value />
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
