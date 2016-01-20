@@ -19,6 +19,7 @@
       <mask>pom.xml</mask>
       <mask>*.xslt</mask>
       <mask>*.x*</mask>
+      <mask>*.js*</mask>
     </recentFileMasks>
   </component>
 </application>
