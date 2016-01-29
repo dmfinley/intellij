@@ -219,9 +219,6 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="JAVA_INVALID_STRING_ESCAPE">
-      <value />
-    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ede6d3" />
@@ -241,9 +238,6 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
-    </option>
-    <option name="JAVA_VALID_STRING_ESCAPE">
-      <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
