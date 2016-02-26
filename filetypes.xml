@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="PropertyPlaceholder" type="CLASS" />
       <mapping ext="dust" type="Dust" />
       <mapping ext="jasper" type="Native" />
       <mapping ext="conf" type="PLAIN_TEXT" />
