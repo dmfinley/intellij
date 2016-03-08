@@ -4,6 +4,7 @@
       <mapping pattern="PropertyPlaceholder" type="CLASS" />
       <mapping ext="dust" type="Dust" />
       <mapping ext="jasper" type="Native" />
+      <mapping pattern=".donotdelete" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
