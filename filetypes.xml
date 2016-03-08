@@ -4,8 +4,10 @@
       <mapping pattern="PropertyPlaceholder" type="CLASS" />
       <mapping ext="dust" type="Dust" />
       <mapping ext="jasper" type="Native" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
