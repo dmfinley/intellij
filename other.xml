@@ -59,6 +59,9 @@
     <propertiesTableLayout />
     <registeredAnts />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/.nvm/v0.10.32/bin/node" version="0.10.32" last-modified="1410910758000" />
+  </component>
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:file:///Users/dfinley/Projects/WR-288930/4X/cbm/bf-enrollment-cbm/src/main/resources/CommonMessageResourcesMultiLanguage" separator="\u002e" />
     <file url="resourceBundle:file:///Users/dfinley/Projects/trunk.0622/4X/webapps/member/src/main/resources/ApplicationResources" separator="\u002e" />

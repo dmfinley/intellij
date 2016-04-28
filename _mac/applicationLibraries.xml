@@ -1,0 +1,25 @@
+<application>
+  <component name="libraryTable">
+    <library name="conf">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Projects/service-proxy/__deploy/membrane-service-proxy-4.1.0-SNAPSHOT/conf" />
+      </SOURCES>
+    </library>
+    <library name="environmentConfigs">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Projects/service-proxy/__deploy/environmentConfigs" />
+      </SOURCES>
+    </library>
+    <library name="starter">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Projects/service-proxy/__deploy/membrane-service-proxy-4.1.0-SNAPSHOT/starter.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
