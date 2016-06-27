@@ -97,6 +97,7 @@
         <option value="https://vcs.benefitfocus.com/svn/enrollment/trunk/" />
       </list>
     </option>
+    <option name="mySvnCommandLine" value="/usr/local/Cellar/subversion/1.9.4/bin/svn" />
   </component>
   <component name="SystemNotifications">
     <option name="NOTIFICATIONS">
