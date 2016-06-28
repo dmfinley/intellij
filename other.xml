@@ -108,6 +108,9 @@
       </set>
     </option>
   </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="" />
+  </component>
   <component name="WebServicesPluginSettings" PathToXmlBeans="$USER_HOME$/Library/Caches/IntelliJIdea11/webservices/xmlbeans-2.3.0" />
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
