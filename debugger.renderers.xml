@@ -35,15 +35,6 @@
         <option name="NAME" value="Object Render" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.Object" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="java.lang.Object" />
-          <option name="LABEL_EXPRESSION" value="bf.lang.dataDisplay.DataDisplay.render(this)&#13;&#13;JAVA" />
-        </Renderer>
-        <Renderer ID="ExpressionChildrenRenderer" role="children">
-          <option name="QUALIFIED_NAME" value="java.lang.Object" />
-          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
-          <option name="CHILDREN_EXPRESSION" value="bf.lang.dataDisplay.DataDisplay.expand(this)&#13;&#13;JAVA" />
-        </Renderer>
       </Renderer>
     </CustomRenderers>
   </component>
